@@ -9,7 +9,7 @@
     "age": 3,
     "location": "Bogura",
     "description": "Healthy deshi cow suitable for Qurbani.",
-    "image": "https://images.unsplash.com/photo-1516467508483-a7212febe31a",
+    "image": "https://i.ibb.co.com/Kx82BcHf/3-Deshi-Shahi-Cow.jpg",
     "category": "Large Animal"
   },
   {
@@ -22,7 +22,7 @@
     "age": 4,
     "location": "Dhaka",
     "description": "Premium Australian breed.",
-    "image": "https://images.unsplash.com/photo-1545468800-85cc9bc6ecf7",
+    "image": "https://i.ibb.co.com/L2dfrZt/1-Australian-Cow.png",
     "category": "Large Animal"
   },
   {
@@ -35,7 +35,7 @@
     "age": 2,
     "location": "Rajshahi",
     "description": "Popular Qurbani goat.",
-    "image": "https://images.unsplash.com/photo-1524024973431-2ad916746881",
+    "image": "https://i.ibb.co.com/Fk4VNkyn/6-Black-Bengal-Goat.webp",
     "category": "Small Animal"
   },
   {
@@ -48,7 +48,7 @@
     "age": 3,
     "location": "Khulna",
     "description": "Healthy and strong goat.",
-    "image": "https://images.unsplash.com/photo-1517849845537-4d257902454a",
+    "image": "https://i.ibb.co.com/C5KGb6GY/4-Jamunpari-Goat-Male.jpg",
     "category": "Small Animal"
   },
   {
@@ -61,7 +61,7 @@
     "age": 4,
     "location": "Rangpur",
     "description": "High quality Sahiwal breed.",
-    "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30",
+    "image": " https://i.ibb.co.com/spQK4xqX/2-Sahiwal-Cowgiant-177227.jpg",
     "category": "Large Animal"
   },
   {
@@ -74,7 +74,85 @@
     "age": 2,
     "location": "Cumilla",
     "description": "Well-fed hybrid goat.",
-    "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2",
+    "image": "https://i.ibb.co.com/23vMKGqS/5-Hybrid-Goat.webp",
+    "category": "Small Animal"
+  },
+  {
+    "id": 7,
+    "name": "Deshi Shahi Cow",
+    "type": "Cow",
+    "breed": "Local Deshi",
+    "price": 120000,
+    "weight": 280,
+    "age": 3,
+    "location": "Bogura",
+    "description": "Healthy deshi cow suitable for Qurbani.",
+    "image": "https://i.ibb.co.com/Kx82BcHf/3-Deshi-Shahi-Cow.jpg",
+    "category": "Large Animal"
+  },
+  {
+    "id": 8,
+    "name": "Australian Cow",
+    "type": "Cow",
+    "breed": "Australian",
+    "price": 180000,
+    "weight": 420,
+    "age": 4,
+    "location": "Dhaka",
+    "description": "Premium Australian breed.",
+    "image": "https://i.ibb.co.com/L2dfrZt/1-Australian-Cow.png",
+    "category": "Large Animal"
+  },
+  {
+    "id": 9,
+    "name": "Black Bengal Goat",
+    "type": "Goat",
+    "breed": "Black Bengal",
+    "price": 25000,
+    "weight": 35,
+    "age": 2,
+    "location": "Rajshahi",
+    "description": "Popular Qurbani goat.",
+    "image": "https://i.ibb.co.com/Fk4VNkyn/6-Black-Bengal-Goat.webp",
+    "category": "Small Animal"
+  },
+  {
+    "id": 10,
+    "name": "Jamunapari Goat",
+    "type": "Goat",
+    "breed": "Jamunapari",
+    "price": 40000,
+    "weight": 55,
+    "age": 3,
+    "location": "Khulna",
+    "description": "Healthy and strong goat.",
+    "image": "https://i.ibb.co.com/C5KGb6GY/4-Jamunpari-Goat-Male.jpg",
+    "category": "Small Animal"
+  },
+  {
+    "id": 11,
+    "name": "Sahiwal Cow",
+    "type": "Cow",
+    "breed": "Sahiwal",
+    "price": 150000,
+    "weight": 350,
+    "age": 4,
+    "location": "Rangpur",
+    "description": "High quality Sahiwal breed.",
+    "image": " https://i.ibb.co.com/spQK4xqX/2-Sahiwal-Cowgiant-177227.jpg",
+    "category": "Large Animal"
+  },
+  {
+    "id": 12,
+    "name": "Hybrid Goat",
+    "type": "Goat",
+    "breed": "Hybrid",
+    "price": 30000,
+    "weight": 45,
+    "age": 2,
+    "location": "Cumilla",
+    "description": "Well-fed hybrid goat.",
+    "image": "https://i.ibb.co.com/23vMKGqS/5-Hybrid-Goat.webp",
     "category": "Small Animal"
   }
 ]
