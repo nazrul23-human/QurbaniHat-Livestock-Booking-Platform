@@ -92,7 +92,7 @@ const Navbar = () => {
 
               <button
                 onClick={handleLogout}
-                className="btn btn-error btn-sm"
+                className="btn bg-green-700 text-white"
               >
                 Logout
               </button>
@@ -108,7 +108,7 @@ const Navbar = () => {
 
               <Link
                 to="/register"
-                className="btn btn-primary btn-sm"
+                className="btn bg-green-700 text-white  btn-sm"
               >
                 Register
               </Link>

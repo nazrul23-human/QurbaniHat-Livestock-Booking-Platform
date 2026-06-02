@@ -69,7 +69,7 @@ const Login = () => {
               required
             />
 
-            <button className="btn btn-primary w-full">
+            <button className="btn bg-green-700 text-white w-full">
               Login
             </button>
           </form>
