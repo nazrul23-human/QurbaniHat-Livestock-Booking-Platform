@@ -1,16 +1,110 @@
-# React + Vite
+# QurbaniHat - Livestock Booking Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
 
-Currently, two official plugins are available:
+QurbaniHat is a modern livestock booking platform where users can explore cows and goats suitable for Qurbani. Users can view animal details, create accounts, log in securely, and place bookings through an easy-to-use interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The platform is fully responsive and provides a smooth experience across mobile, tablet, and desktop devices.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+* User Registration and Login
+* Google Authentication
+* Private Routes Protection
+* View All Animals
+* Sort Animals by Price
+* Animal Details Page
+* Animal Booking Form
+* Success Toast Notifications
+* My Profile Page
+* Update Profile Information
+* Featured Animals Section
+* Qurbani Tips Section
+* Top Breeds Section
+* Why Choose QurbaniHat Section
+* Responsive Design
+* Custom 404 Not Found Page
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Technologies Used
+
+### Frontend
+
+* React
+* React Router DOM
+* Tailwind CSS
+* DaisyUI
+
+### Authentication
+
+* Firebase Authentication
+
+### Notifications
+
+* React Hot Toast
+
+### Icons
+
+* React Icons
+
+---
+
+## NPM Packages Used
+
+```bash
+react-router-dom
+firebase
+react-hot-toast
+react-icons
+tailwindcss
+daisyui
+```
+
+---
+
+## Routes
+
+### Public Routes
+
+* /
+* /animals
+* /login
+* /register
+
+### Private Routes
+
+* /animals/:id
+* /my-profile
+* /update-profile
+
+---
+
+## Installation and Setup
+
+Clone the repository:
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_LINK
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
+
+```bash
+npm run dev
+```
+
+Build the project:
+
+```bash
+npm run build
+```
+
