@@ -133,4 +133,4 @@ const AnimalDetails = () => {
   );
 };
 
-export default AnimalDetails;
+export default AnimalDetails; 
